@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with learning best way to develop applications.
 - 💬 Ask me about React Native.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I smile/giggle or laugh to everything.
+- ⚡ Fun fact: I smile/giggle or laugh to everything.\
 <-- - 📫 How to reach me:  -->
