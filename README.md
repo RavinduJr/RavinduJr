@@ -7,4 +7,3 @@
 - 💬 Ask me about React Native.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I smile/giggle or laugh to everything.
-<-- - 📫 How to reach me:  -->
